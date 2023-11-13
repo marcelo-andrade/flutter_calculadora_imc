@@ -1,3 +1,3 @@
 # Calculadora IMC
 
-Projeto Calculadora IMC em Flutter
+Projeto Calculadora IMC utilizando Flutter
